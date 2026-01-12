@@ -1,0 +1,7 @@
+<div class="sidebar">
+    <h2>Gestion Hotel</h2>
+    <a href="index.jsp"><i class="bi bi-house"></i> Accueil</a>
+    <a href="liste_chambres.jsp"><i class="bi bi-door-closed"></i> Chambres</a>
+    <a href="ajouterReservation.jsp"><i class="bi bi-calendar-plus"></i> Reserver</a>
+    <a href="contact.jsp"><i class="bi bi-envelope"></i> Contact</a>
+</div>

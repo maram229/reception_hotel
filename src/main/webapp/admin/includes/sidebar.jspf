@@ -1,0 +1,10 @@
+<div class="sidebar">
+    <h2>Admin Panel</h2>
+    <a href="dashboard.jsp"><i class="bi bi-house"></i> Accueil</a>
+    <a href="ajouter_client.jsp"><i class="bi bi-person-plus"></i> Ajouter un client</a>
+    <a href="liste_clients.jsp"><i class="bi bi-people"></i> Liste des clients</a>
+    <a href="liste-reservations"><i class="bi bi-card-checklist"></i> Réservations</a>
+    <a href="ajouter_chambre.jsp"><i class="bi bi-door-open"></i> Ajouter une chambre</a>
+    <a href="liste_chambres.jsp"><i class="bi bi-building"></i> Chambres</a>
+    <a href="../logout.jsp"><i class="bi bi-box-arrow-right"></i> Déconnexion</a>
+</div>

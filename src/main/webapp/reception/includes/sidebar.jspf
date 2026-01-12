@@ -1,0 +1,9 @@
+<div class="sidebar">
+    <h2>Gestion Hôtel</h2>
+    <a href="dashboard.jsp"><i class="bi bi-house"></i> Accueil</a>
+    <a href="liste_chambres.jsp"><i class="bi bi-door-closed"></i> Chambres disponibles</a>
+    <a href="ajouterReservation.jsp"><i class="bi bi-calendar2-check"></i> Faire réservations</a>
+    <a href="profil.jsp"><i class="bi bi-person-circle"></i> Mon profil</a>
+    <a href="contact.jsp"><i class="bi bi-envelope"></i> Contact</a>
+    <a href="../logout.jsp"><i class="bi bi-box-arrow-left"></i> Se déconnecter</a>
+</div>
